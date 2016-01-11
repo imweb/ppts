@@ -2,7 +2,7 @@
 
 + [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid App下监控与极限优化-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
 + [移动Web优化之道](https://github.com/herbertliu/sharing/blob/master/ppts/移动Web优化之道.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
-+ [移动端web开发调试](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/debug.ppt) For OPPO by [fishineyuan](https://github.com/orgs/imweb/people/feix760)
++ [移动端web开发调试](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/debug.pdf) For OPPO by [fishineyuan](https://github.com/orgs/imweb/people/feix760)
 + [MV**简述](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/MV%E6%9F%90%E7%AE%80%E8%BF%B0.key) For OPPO by [Daniel Yang](https://github.com/orgs/imweb/people/miniflycn)
 + [seo优化](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/seo%E4%BC%98%E5%8C%96.pdf) For OPPO by [bleanycao](https://github.com/orgs/imweb/people/bleany)
 + [性能优化解决方案](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf) For OPPO by [zhuoyingmo]()
