@@ -1,7 +1,8 @@
 # IMWEB 前端分享沉淀
 
 + [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid App下监控与极限优化-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
-+ [移动Web优化之道](https://github.com/herbertliu/sharing/blob/master/ppts/移动Web优化之道.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
++ [大前端优化之路](https://github.com/herbertliu/sharing/blob/master/ppts/大前端优化之路-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
++ [移动Web优化之道](https://github.com/herbertliu/sharing/blob/master/ppts/移动Web优化之道-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 + [移动端web开发调试](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/%E7%A7%BB%E5%8A%A8%E8%B0%83%E8%AF%95.pdf) For OPPO by [fishineyuan](https://github.com/orgs/imweb/people/feix760)
 + [MV**简述](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/MV%E6%9F%90%E7%AE%80%E8%BF%B0.pdf) For OPPO by [Daniel Yang](https://github.com/orgs/imweb/people/miniflycn)
 + [seo优化](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/seo%E4%BC%98%E5%8C%96.pdf) For OPPO by [bleanycao](https://github.com/orgs/imweb/people/bleany)
