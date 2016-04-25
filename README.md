@@ -1,6 +1,6 @@
 # IMWEB 前端分享沉淀
 
-+ [互娱时代下的web音视频性能优化.pdfx](https://github.com/herbertliu/sharing/blob/master/ppts/互娱时代下的web音视频性能优化.pdfx) For [Qcon](http://2016.qconbeijing.com/presentation/2990) By [fredwu]()
++ [互娱时代下的web音视频性能优化.pdfx](https://github.com/herbertliu/sharing/blob/master/ppts/互娱时代下的web音视频性能优化.pdf) For [Qcon](http://2016.qconbeijing.com/presentation/2990) By fredwu
 + [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid App下监控与极限优化-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
 + [大前端优化之路](https://github.com/herbertliu/sharing/blob/master/ppts/大前端优化之路-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 + [移动Web优化之道](https://github.com/herbertliu/sharing/blob/master/ppts/移动Web优化之道-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
