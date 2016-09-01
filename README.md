@@ -3,7 +3,7 @@
 + [移動娛樂直播下監控與極限優化](https://github.com/herbertliu/sharing/blob/master/ppts/移动娱乐直播下监控与极限优-ModernWeb.pdf) For [台湾Modern Web大会](http://modernweb.tw/speaker.html#s1036) By [河伯](https://github.com/herbertliu)
 + [夯实移动Web优化基础知识](https://github.com/herbertliu/sharing/blob/master/ppts/夯实移动Web优化基础知识-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 + [互娱时代下的web音视频性能优化](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/%E4%BA%92%E5%A8%B1%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84web%E9%9F%B3%E8%A7%86%E9%A2%91%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf) For [Qcon](http://2016.qconbeijing.com/presentation/2990) By fredwu
-+ [如何构建高质量、高效率的前端体系](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/如何构建高质量、高效率的前端体系 -zhuoying.pptx) For OPPO by zhuoyingmo
++ [如何构建高质量、高效率的前端体系](https://github.com/imweb/ppts/blob/master/docs/%E5%AF%B9%E5%A4%96%E5%88%86%E4%BA%AB/如何构建高质量、高效率的前端体系 -zhuoying.pptx) For 腾讯技术开放日 by zhuoyingmo
 + [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid App下监控与极限优化-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
 + [大前端优化之路](https://github.com/herbertliu/sharing/blob/master/ppts/大前端优化之路-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 + [移动Web优化之道](https://github.com/herbertliu/sharing/blob/master/ppts/移动Web优化之道-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
